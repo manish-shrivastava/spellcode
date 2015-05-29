@@ -1,7 +1,7 @@
 # Spellcode
 ###(A Replica of code.google.com/p/spellcode)
 
-[![Build Status](https://travis-ci.org/manish-shrivastava/spellcode.png?branch=master)](https://travis-ci.org/manish-shrivastava/spellcode)
+[![Build Status](https://travis-ci.org/manish-shrivastava/spellcode.svg)](https://travis-ci.org/manish-shrivastava/spellcode)
 
 SpellCode is multiprogramming language support - source code spell checking utility for Microsoft Windows operating systems.
 SpellCode can understand the source code syntax of all the major programming languages, analyzes the source code intelligently and ignores all the tags, symbols and other application specific identifiers.
